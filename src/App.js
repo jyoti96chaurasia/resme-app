@@ -47,9 +47,7 @@ function App() {
           </h2>
           <p>
             I am an aspiring web designer. I have taught myself to code. I would
-            love to build new, cutting edge designs. The technologies that most
-            excite me include new mobile apps, Electronic Vehicles and Artifical
-            Intelligence. I am currently working on building a portfolio of my
+            love to build new, cutting edge designs. I am currently working on building a portfolio of my
             work so that I can get an awesome coding job.
           </p>
 
@@ -57,10 +55,9 @@ function App() {
             <u>Why Am I Learning to Code?</u>
           </h2>
           <p>
-            I started my career back in 2015. 5 years into the corporate world,
+            I started my career in 2020 in corporate world,then
             I realised that coding is an essential skill nowadays. This started
-            me on the path of learning the basics of coding. My first step is to
-            be a part of the web development bootcamp by BigBinary Academy. It
+            me on the path of learning the basics of coding.  It
             feels great today, since I am making my own personal portfolio which
             I could show off in front of my friends. Not only that, I could use
             this as my resume when I apply for further web development jobs.
